@@ -22,4 +22,4 @@ go build -o notely && ./notely
 
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
-This is a test to see how pull requests work.
+This is a test to see how pull requests work. I need this to work man, I lowkey don't know what I'm doing
